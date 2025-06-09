@@ -1,0 +1,55 @@
+names:
+- DP-135
+- I-407a
+- I-409
+- I-425
+- I-434a
+- P-102
+- P-104
+- P-105
+- P-112
+- P-115
+- P-117
+- P-123a
+- P-123b
+- P-124a1
+- P-124c
+- P-127
+- P-127c
+- P-130
+- P-131a
+- R-301d
+- R-301e
+- R-302a
+- R-302b
+- R-303
+- R-403
+- W-201a
+- W-201b
+- W-202a
+- W-202b
+- W-203c
+- W-205a
+- W-205d
+- W-207a
+- W-207b
+- W-207c
+- W-208
+- W-209
+- W-210
+- W-220
+- W-224
+- W-225
+- W-233
+- W-239b
+- W-245a
+nc: 44
+roboflow:
+  license: CC BY 4.0
+  project: traffic-sign-dataset-he5op
+  url: https://universe.roboflow.com/khangnp63cnttntueduvn/traffic-sign-dataset-he5op/dataset/2
+  version: 2
+  workspace: khangnp63cnttntueduvn
+test: ../test/images
+train: ../train/images
+val: ../valid/images
